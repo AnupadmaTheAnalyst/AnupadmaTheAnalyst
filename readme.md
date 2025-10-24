@@ -18,6 +18,6 @@ An aspiring Data Analyst, passionate about turning raw data into meaningful insi
 <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Anupadma?theme=dark&font=Marcellus)](https://leetcode.com/u/Anupadma/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Anupadma?theme=dark&font=Marcellus)
 
 [![Anupadma's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnupadmaTheAnalyst&bg_color=0b090a&color=fdfcfd&line=18db0a&point=ffffff&area=true&hide_border=true)](https://github.com/AnupadmaTheAnalyst/github-readme-activity-graph)
