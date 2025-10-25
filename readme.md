@@ -4,7 +4,7 @@ An aspiring Data Analyst, passionate about turning raw data into meaningful insi
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://anupadmatheanalyst.github.io/Anupadma-DataJourney.github.io/)                                                 
 - 🌱Currently enhancing my data visualization and storytelling skills through hands-on projects.
-- Engineering at [<img src="https://tse1.mm.bing.net/th/id/OIP.M1cu-AXE8ZyzQGKk_Gi51gHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" height="24">](https://macet.edu.in/),
+- Engineering at [<img src="https://tse1.mm.bing.net/th/id/OIP.M1cu-AXE8ZyzQGKk_Gi51gHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" height="24">](https://macet.edu.in/)
 - Previously worked with [<img height="24" width="24" src="https://yt3.googleusercontent.com/BiqJkVrBI9Li4-Yn5smIyjLdhlm7eiJzn0L6gNW5V-Z-Hr4j1tQCp10NbH3Y4SZ-A31rnnpU=s900-c-k-c0x00ffffff-no-rj">](https://skilldux.com/)
 - Social Presence
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anupadma2002/) <br/>
